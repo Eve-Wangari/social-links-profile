@@ -34,5 +34,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Eve-Wangari](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Eve-Wangari](https://www.frontendmentor.io/profile/Eve-Wangari)
 
